@@ -1,0 +1,15 @@
+{
+  "name": "angular-nw",
+  "description": "angular.js patched for NW.js",
+  "version": "1.4.3",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinvl/angular-nw.git"
+  },
+  "author": {
+    "name": "Angular Core Team",
+    "email": "angular-core+npm@google.com"
+  },
+  "license": "MIT"
+}
